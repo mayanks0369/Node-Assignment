@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^1.7.5",
+    "bull": "^4.16.0",
+    "cluster": "^0.7.7",
+    "express": "^4.19.2",
+    "os": "^0.1.2",
+    "rate-limiter-flexible": "^5.0.3",
+    "redis": "^4.7.0"
+  }
+}
